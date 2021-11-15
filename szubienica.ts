@@ -25,42 +25,7 @@ window.onload = start;
 
 const litery:string[] = new Array<string>("A","Ą","B","C","Ć","D","E","Ę","F","G","H","I","J","K","L","Ł","M","N","Ń","O","Ó","P","Q","R","S","Ś","T","U","V","W","X","Y","Z","Ź","Ż");
 
-/*var litery = new Array(35);   ZLE!!! TAK SIĘ NIE ROBI TABLICY!!!ROBIC JAK WYŻEJ PRZY POMOCY Const
-litery[0] = "A";  
-litery[1] = "Ą";
-litery[2] = "B";
-litery[3] = "C";
-litery[4] = "Ć";
-litery[5] = "D";
-litery[6] = "E";
-litery[7] = "Ę";
-litery[8] = "F";
-litery[9] = "G";
-litery[10] = "H";
-litery[11] = "I";
-litery[12] = "J";
-litery[13] = "K";
-litery[14] = "L";
-litery[15] = "Ł";
-litery[16] = "M";
-litery[17] = "N";
-litery[18] = "Ń";
-litery[19] = "O";
-litery[20] = "Ó";
-litery[21] = "P";
-litery[22] = "Q";
-litery[23] = "R";
-litery[24] = "S";
-litery[25] = "Ś";
-litery[26] = "T";
-litery[27] = "U";
-litery[28] = "V";
-litery[29] = "W";
-litery[30] = "X";
-litery[31] = "Y";
-litery[32] = "Z";
-litery[33] = "Ż";
-litery[34] = "Ź";*/
+
 
 function start()
 {
